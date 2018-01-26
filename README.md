@@ -1,2 +1,2 @@
 # Design_Patterns_Gas_Pump
-Based on implementation of disparate design patterns.
+Created a gas pump using Extended Finite State Machine, strategy pattern, abstract factory pattern, state pattern.
